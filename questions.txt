@@ -1,0 +1,95 @@
+#to check whether a number is prime or not 
+#write a pgm to generate all prime numbers from 1 to n
+#write a pgm to check whether a number is strong no. or not
+#write a pgm to check whether a number is armstong no. or not 
+#happy no or not
+#neon no or not
+#spy no or not
+#fibonacci series of given number n
+#palindrome or not 
+#convert a no from negative to positive
+#factorial 
+#multiplication table 
+
+8-6-24
+#write a python prgm to find best of 2 test avg marks out of 3 test marks accepted by the user
+#develop a python pgm to convery a binary number to decimal  number,optal and hexadecimal numbers using functions
+#define a function F as Fn=Fn-1+Fn-2.Write a python prgm which accepts a value for N as input and pass this value to the function.
+Display suitable error message if the condition for the input value is not followed.
+#python prgm to find string similarity btwn 2 given strings (0 to 1)
+#python prgm that accepts a sentence and finds the no of words, digits, uppercase letters and lowercase letters 
+# Star pattern 1
+*
+**
+***
+****
+*****
+2
+     *
+    **
+   ***
+  ****
+ *****
+3
+*****
+ ****
+  ***
+   **
+    *
+4
+*****
+****
+***
+**
+*
+5
+*****
+*****
+*****
+*****
+*****
+6)
+1
+12
+123
+1234
+12345
+
+7)
+1
+22
+333
+4444
+55555
+
+8)
+*****
+*   *
+*   *
+*   *
+*****
+
+9)
+*****
+** **
+* * *
+** **
+*****
+
+10)
+ 1  2  3  4
+ 5  6  7  8
+ 9 10 11 12
+ 13 14 15 16
+
+11)
+A A A A A
+A A A A A 
+A A A A A 
+A A A A A        
+A A A A A
+ TAKE USER INPUT 
+
+#wap to read a string from user and implement the logic to remove the characters which are at the odd numbers
+of the index
+#wap to swap 2 numbers using 3rd variable
