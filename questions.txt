@@ -93,3 +93,16 @@ A A A A A
 #wap to read a string from user and implement the logic to remove the characters which are at the odd numbers
 of the index
 #wap to swap 2 numbers using 3rd variable
+
+9/6/24
+
+#Count the number of occurrences of given item in the lists
+#wap to count unique values in the lists
+#Find out the duplicate removal list product using list comprehension 
+#wap to extract elements with the frequency greater than k
+#wap to test a list contains elements in the range 
+#wap to demonstrate list intersection and union
+#wap to merge 2 sorted lists into a single list
+#find the largest sub-array sum of the given number
+#wap to partition a list around a given value such that all elements less than the given value come before it and all elements greater than given value come after it
+#find the peak element in the list of integers.Peak element is an elementthat is greater than or equal to its neighbours
