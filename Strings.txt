@@ -1,0 +1,6 @@
+Strings
+len(s)
+isupper()
+islower()
+lower()
+upper()
