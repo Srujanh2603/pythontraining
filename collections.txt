@@ -3,3 +3,52 @@ tuples
 sets
 dictionaries
 
+LISTS
+append=adds elements to the end of the list
+extends=extends elements to the end of the list
+insert=adds elements at specified position
+remove=remove a particular element from the list
+pop=pop the index of the element from the list
+clear=clear?del elements from the list
+del=function to delete the list
+index() returns the index of the element
+count() counts the the no of occurrences of the element
+reversed() returns the reversed list
+sort() to sort the elements in the list
+
+TUPLES
+()
+tuple()
+t=('a','b','c','d','e')
+t1=(10,20,30)
+tuple is immutable 
+to append, first convert tuple to a list and append it 
+l=list(t1)
+l.append(40)
+tuple(l)
+
+Unpacking a tuple:
+t=(10,20,30)
+(a,b,c)=t
+(a,b)=t
+
+
+SETS
+
+Unordered, changeable, no duplicate elements
+add() for integers
+update for strings/sets
+remove()
+discard()
+clear()
+del
+pop()
+union()  |
+intersection() |&
+difference() -
+symmetric difference ^
+intersection_update() 
+difference_update()
+symmetric_difference_update()
+
+DICTIONARIES
