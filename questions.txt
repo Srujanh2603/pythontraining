@@ -106,3 +106,18 @@ of the index
 #find the largest sub-array sum of the given number
 #wap to partition a list around a given value such that all elements less than the given value come before it and all elements greater than given value come after it
 #find the peak element in the list of integers.Peak element is an elementthat is greater than or equal to its neighbours
+
+
+#converting int to decimal
+#converting string(int) to decimal
+#reversing string using extended slicing technique
+#counting the number of occurrences of the character in the string
+#counting  the vowels 
+#fibonacci
+#max and min in list without using the function
+#comparing 2 strings for anagrams
+#check for paindrome using external slicing 
+#building a pyramid pattern in python
+#develop a python pgm that analyses the sentiment of a given twxt input. it involves determining whether a piece of text is +ve -ve or neutral sentiments.Requirements of prgm are
+
+
